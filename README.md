@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center" style="color:#ff4da6;">Hello! I'm Alina</h1>
-<h3 align="center" style="color:#ff7ac8;">Software Engineer from ITMO</h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="320" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=700&color=FF4DA6&center=true&vCenter=true&width=800&lines=Hello!+I%27m+Alina;Software+Engineer+from+ITMO" />
 </p>
 
 <p align="center">
