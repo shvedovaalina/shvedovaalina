@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://t.me/shvedova_ali">📌 telegram: t.me/shvedova_ali</a>
+  <a href="https://t.me/shvedova_ali"> telegram: t.me/shvedova_ali</a>
 </p>
 
 
