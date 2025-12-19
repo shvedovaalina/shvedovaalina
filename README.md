@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=700&color=FF4DA6&center=true&vCenter=true&width=800&lines=Hello!+I%27m+Alina;Software+Engineer+from+ITMO" />
 </p>
@@ -24,5 +25,5 @@ Here are some ideas to get you started:
 
 ### 🧰 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,postgres,kafka,redis,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,linux,bash,postgres,redis,kafka,git,github" />
 </p>
