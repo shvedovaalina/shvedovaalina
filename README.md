@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-### 🧰 Languages and Tools
+### Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,linux,bash,postgres,redis,kafka,git,github" />
 </p>
